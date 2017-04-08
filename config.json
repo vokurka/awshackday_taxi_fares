@@ -1,0 +1,6 @@
+{
+	"parameters": {
+		"output_bucket": "in.c-gcs-dt-flattened",
+		"url": "https://gothere.sg/a/search?q=from+53+rumia+to+23+church"
+	}
+}
