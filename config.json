@@ -1,6 +1,6 @@
 {
 	"parameters": {
-		"output_bucket": "in.c-gcs-dt-flattened",
+		"output_bucket": "in.c-taxi_fares",
 		"url": "https://gothere.sg/a/search?q=from+53+rumia+to+23+church"
 	}
 }
